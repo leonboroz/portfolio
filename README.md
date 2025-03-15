@@ -6,8 +6,11 @@
 
 - [Описание](#описание)
 - [Проекты](#проекты)
-  - [API Data Loader](#api-data-loader)
-  - [Технологии](#технологии)
+  - ## Проекты
+
+1. [My hard but very interesting project](./My%20hard%20but%20very%20interesting%20project/README.md)
+
+- [Технологии](#технологии)
 - [Как использовать](#как-использовать)
 - [Контакты](#контакты)
 
