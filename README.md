@@ -31,7 +31,7 @@
 
 1. Клонируйте репозиторий:
  
-   git clone https://github.com/ваш-аккаунт/Portfolio.git
+   git clone htps://github.com/leonboroz/Portfolio
 
 2. Перейдите в папку проекта:
    cd Portfolio
