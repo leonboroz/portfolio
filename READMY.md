@@ -54,13 +54,13 @@ python ETL  from API to Database.py
 
 ## Описание классов и методов
 
-# APIClient
-# Методы:
+## APIClient
+### Методы:
 get_instance(url=None, param=None) — возвращает единственный экземпляр класса (Singleton), подключается к API.
 close_connect() — закрывает подключение к API.
 
-# Dataload
-# Методы:
+## Dataload
+### Методы:
 load() — загружает данные с API.
 
 # Transform
