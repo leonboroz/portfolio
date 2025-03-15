@@ -8,7 +8,7 @@
 - [Проекты](#проекты)
   - ## Проекты
 
-1. [My hard but very interesting project](./My%20hard%20but%20very%20interesting%20project/README.md)
+1. [API_date_load](API_date_load/)
 
 - [Технологии](#технологии)
 - [Как использовать](#как-использовать)
@@ -20,13 +20,13 @@
 
 ## Проекты
 
-### [API Data Loader](./API%20Data%20Loader)
+### 1. [API_date_load](API_date_load/)
 
 Описание: Скрипт для загрузки данных из API, их очистки и обработки, а затем загрузки в базу данных PostgreSQL.
 
 - **Языки и технологии**: Python, PostgreSQL, API.
 - **Как использовать**: Для запуска скрипта необходимо настроить конфигурационные файлы и установить зависимости.
-- [Подробнее о проекте в `README`](./API%20Data%20Loader/README.md).
+- [Подробнее о проекте в `README`](API_date_load/READMY.md).
 
 
 
@@ -41,7 +41,7 @@
 Для каждого проекта в папке есть отдельные инструкции по установке и запуску в соответствующих README.md файлах внутри каталога проекта.
 
 # Контакты
-Email: borozyak@gmail.com
+Email: [Mail] (borozyak@gmail.com)
 LinkedIn: [Leonid Borzyh](https://www.linkedin.com/in/leonid-borzyh-1396a226a/)
 GitHub: https://github.com/leonboroz
 
