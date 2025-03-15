@@ -1,0 +1,29 @@
+
+    {
+        "dbname_start": "postgres", 
+        "user": "postgres",
+        "password": "pNA(2n", 
+        "host": "localhost",
+        "port": 5432,
+        "new_base": "db_project",
+        "new_schema": "sb_project",
+        "new_table": "tb_project",
+        "stroc": [
+          "id SERIAL PRIMARY KEY",
+          "user_id varchar(50)",
+          "oauth_consumer_key varchar(150)",
+          "lis_result_sourcedid TEXT",
+          "lis_outcome_service_url TEXT",
+          "is_correct INT",
+          "attempt_type varchar(10)",
+          "created_at TIMESTAMP",
+          "CONSTRAINT unique_constraint_name UNIQUE (user_id,created_at)"
+
+        ]
+      }
+      
+
+
+
+
+
