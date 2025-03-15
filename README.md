@@ -43,5 +43,5 @@
 # Контакты
 - Email: [Google](mailto:borozyak@gmail.com)
 - Linkedin: [Leonid Borzyh](https://www.linkedin.com/in/leonid-borzyh-1396a226a/)
-- GitHub: [Leonboroz](https://github.com/leonboroz)
+- GitHub: [Leonid](https://github.com/leonboroz)
 
