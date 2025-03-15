@@ -41,7 +41,7 @@
 Для каждого проекта в папке есть отдельные инструкции по установке и запуску в соответствующих README.md файлах внутри каталога проекта.
 
 # Контакты
-Email:[почта] (borozyak@gmail.com)
+Email: [Mail] (borozyak@gmail.com)
 LinkedIn: [Leonid Borzyh](https://www.linkedin.com/in/leonid-borzyh-1396a226a/)
 GitHub: https://github.com/leonboroz
 
