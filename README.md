@@ -17,8 +17,8 @@
 ## Перечень проектов
 
 1. [API_date_load](#api_date_load)
-2. [Python_visualization_work](Python_visualization_work/)
-3. [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
+2. [Python_visualization_work](#python_visualization_work)
+3. [Keys_with_ETL_apt_data](#keys_with_etl_apt_data)
 
 
 
@@ -32,7 +32,7 @@
 - **Как использовать**: Для запуска скрипта необходимо настроить конфигурационные файлы, развернуть виртуальное окружение и установить зависимости.
 - [Подробнее о проекте в `README`](API_date_load/README.md).
 
-### 2. [Python_visualization_work](Python_visualization_work/)
+### [Python_visualization_work](Python_visualization_work/)
 
 Описание: Скрипт для загрузки данных, исследования, ответа на поставленные вопросы и построение визуализаций.
 
@@ -40,7 +40,7 @@
 - **Как использовать**: Для запуска скрипта необходимо развернуть виртуальное окружение и установить зависимости.
 - [Подробнее о проекте в `README`](Python_visualization_work/README.md).
 
-### 3. [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
+###  [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
 
 Описание: Скрипт для загрузки данных формата .csv из папок, обработки, объединения в датафрейм и загрузки в файлы .xlsx.
 
