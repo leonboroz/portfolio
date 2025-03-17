@@ -16,7 +16,7 @@
 
 ## Перечень проектов
 
-1. [API_date_load](API_date_load/)
+1. [API_date_load](#api_date_load)
 2. [Python_visualization_work](Python_visualization_work/)
 3. [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
 
@@ -24,7 +24,7 @@
 
 ## Проекты
 
-### 1. [API_date_load](API_date_load/)
+### [API_date_load](API_date_load/)
 
 Описание: Скрипт для загрузки данных из API, их очистки и обработки, а затем загрузки в базу данных PostgreSQL.
 
