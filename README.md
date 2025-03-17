@@ -18,6 +18,8 @@
 
 1. [API_date_load](API_date_load/)
 2. [Python_visualization_work](Python_visualization_work/)
+3. [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
+
 
 
 ## Проекты
@@ -37,6 +39,16 @@
 - **Языки и технологии**: Python,Matplotlib, Seaborn.
 - **Как использовать**: Для запуска скрипта необходимо развернуть виртуальное окружение и установить зависимости.
 - [Подробнее о проекте в `README`](Python_visualization_work/README.md).
+
+### 3. [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
+
+Описание: Скрипт для загрузки данных формата .csv из папок, обработки, объединения в датафрейм и загрузки в файлы .xlsx.
+
+- **Языки и технологии**: Python.
+- **Как использовать**: Для запуска скрипта необходимо развернуть виртуальное окружение и установить зависимости.
+- [Подробнее о проекте в `README`](Keys_with_ETL_apt_data/README.md).
+
+
 
 
 
