@@ -19,6 +19,7 @@
 1. [API_date_load](#api_date_load)
 2. [Python_visualization_work](#python_visualization_work)
 3. [Keys_with_ETL_apt_data](#keys_with_etl_apt_data)
+4. [Generation_and_analysis_data](#Generation_and_analysis_data)
 
 
 
@@ -32,6 +33,7 @@
 - **Как использовать**: Для запуска скрипта необходимо настроить конфигурационные файлы, развернуть виртуальное окружение и установить зависимости.
 - [Подробнее о проекте в `README`](API_date_load/README.md).
 
+
 ### [Python_visualization_work](Python_visualization_work/)
 
 Описание: Скрипт для загрузки данных, исследования, ответа на поставленные вопросы и построение визуализаций.
@@ -40,6 +42,7 @@
 - **Как использовать**: Для запуска скрипта необходимо развернуть виртуальное окружение и установить зависимости.
 - [Подробнее о проекте в `README`](Python_visualization_work/README.md).
 
+
 ###  [Keys_with_ETL_apt_data](Keys_with_ETL_apt_data/)
 
 Описание: Скрипт для загрузки данных формата .csv из папок, обработки, объединения в датафрейм и загрузки в файлы .xlsx.
@@ -47,6 +50,15 @@
 - **Языки и технологии**: Python.
 - **Как использовать**: Для запуска скрипта необходимо развернуть виртуальное окружение и установить зависимости.
 - [Подробнее о проекте в `README`](Keys_with_ETL_apt_data/README.md).
+
+
+### [Generation_and_analysis_data](Generation_and_analysis_data/)
+
+Описание: В проекте генерируются случайтые данные и на их основе проводится когортный анализ
+
+- **Языки и технологии**: Python. Matplotlib, Seaborn.
+- **Как использовать**: Для запуска скрипта необходимо развернуть виртуальное окружение и установить зависимости.
+- [Подробнее о проекте в `README`](Generation_and_analysis_data/README.md).
 
 
 
