@@ -26,7 +26,7 @@
 3. 📂[Keys_with_ETL_apt_data](#keys_with_etl_apt_data)
 4. 📂[Generation_and_analysis_data](#Generation_and_analysis_data)
 5. 📂[SQL_balance_analysis](#sql_balance_analysis)
-6. 📂[Ad_Campaign_impact](#Ad_campaign_impact)
+6. 📂[Ad_campaign_impact](#ad_campaign_impact)
 
 
 
@@ -78,13 +78,13 @@
 - 📄[Подробнее о проекте в `README`](Sql_balance_analysis/README.md).
 
 
-### [Ad_compaign_impack](Ad_compaign_inpact/)
+### [Ad_compaign_impact](Ad_compaign_inpact/)
 
 Описание: В проекте  проводится статистическое исследование воздействия промоакции
 
 - 💻**Языки и технологии**: Python, Scipy.Stats
 - 🔍[**Как использовать**](Ad_compaign_impact/README.md#использование)
-- 📄[Подробнее о проекте в `README`](Ad_compaign_inpack/README.md)
+- 📄[Подробнее о проекте в `README`](Ad_compaign_inpact/README.md)
 
 
 
