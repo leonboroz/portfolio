@@ -19,7 +19,7 @@ ad_campaign_presentation.pptx — презентация с основными �
 Запуск в Google Colab
 
 Чтобы открыть ноутбук в Google Colab, используйте следующую ссылку:
-[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonboroz/Portfolio/blob/main/Ad_compaign_impact/ad_campaign_analysis.ipynb)
+[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonboroz/Portfolio/blob/main/Ad_campaign_impact/ad_campaign_analysis.ipynb)
 
 
 После открытия в Colab выполните ячейки кода.
