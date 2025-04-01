@@ -3,9 +3,12 @@
 
 ## Структура
 
-- [Test_Assignment](Test_Assignment/) – тестовое задание с анализом данных в Excel и SQL.
-- 📄[Подробнее о проекте в `README`](Test_Assignment/README.md).
+[Test_Assignment](Test_Assignment/) – тестовое задание с анализом данных в Excel и SQL.  
+📄[Подробнее о проекте в `README`](Test_Assignment/README.md).
 
+
+[PowerBI_Dashboard](PowerBI_Dashboard/) – тестовое задание с анализом данных в Power BI.  
+📄[Подробнее о проекте в `README`](PowerBI_Dashboard/README.md).
 
 
 Использование
