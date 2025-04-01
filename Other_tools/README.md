@@ -3,8 +3,8 @@
 
 ## Структура
 
-- [Test_Assignment](Test_Assigment/) – тестовое задание с анализом данных в Excel и SQL.
-- 📄[Подробнее о проекте в `README`](Test_Assigment/README.md).
+- [Test_Assignment](Test_Assignment/) – тестовое задание с анализом данных в Excel и SQL.
+- 📄[Подробнее о проекте в `README`](Test_Assignment/README.md).
 
 
 
